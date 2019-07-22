@@ -19,4 +19,4 @@ def drop_db
   end
 end
 
-require "./"
+require "./app/models/student.rb"
